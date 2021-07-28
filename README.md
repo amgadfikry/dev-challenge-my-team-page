@@ -36,8 +36,9 @@
 
 ## Overview
 
-![screenshot](https://github.com/amgadfikry/dev-challenge-my-team-page/blob/main/screencapture-127-0-0-1-5500-index-html-2021-07-28-23_21_51.png)
+
 ![screenshot](https://github.com/amgadfikry/dev-challenge-my-team-page/blob/main/screencapture-127-0-0-1-5500-index-html-2021-07-28-23_21_25.png)
+![screenshot](https://github.com/amgadfikry/dev-challenge-my-team-page/blob/main/screencapture-127-0-0-1-5500-index-html-2021-07-28-23_21_51.png)
 
 - challenge live demo is on github website
 
@@ -60,4 +61,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@amgadfikry]("https://github.com/amgadfikry")
+- GitHub [@amgadfikry](https://github.com/amgadfikry)
